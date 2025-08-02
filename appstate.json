@@ -143,29 +143,4 @@
         "creation": "2025-08-02T13:43:57.448Z",
         "lastAccessed": "2025-08-02T13:43:57.448Z"
     }
-]        "value": "v2%3Bclient_version%3A2884%3Btimestamp%3A1754141536",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-02T13:32:47.575Z",
-        "lastAccessed": "2025-08-02T13:32:47.575Z"
-    },
-    {
-        "key": "fbl_st",
-        "value": "101329396%3BT%3A29235692",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-02T13:32:47.575Z",
-        "lastAccessed": "2025-08-02T13:32:47.575Z"
-    },
-    {
-        "key": "fr",
-        "value": "07SJ0ukRCuaDmVbm9.AWecspt3uIfXnixmnLIr3JnqlvOQfaBt37_fXWEvjcfR6cUotq0.BojhKH..AAA.0.0.BojhNi.AWfQcdyBcZs9Id9xAjLkpvhG7Ho",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-02T13:32:47.575Z",
-        "lastAccessed": "2025-08-02T13:32:47.575Z"
-    }
 ]
